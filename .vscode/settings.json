@@ -56,6 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "My-First-Game.sln",
+    "dotnet.defaultSolution": "My First Game.sln",
     "dotnet.preferCSharpExtension": true
 }
